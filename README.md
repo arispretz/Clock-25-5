@@ -1,6 +1,7 @@
 # Clock 25 more 5
 
 This is one of my projects in the way to achieve "Front End Development Libraries" certification at freeCodeCamp.org.
+It was designed using React.
 
 User Story #1: I can see an element with id="break-label" that contains a string (e.g. "Break Length").
 
